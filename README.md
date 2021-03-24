@@ -5,4 +5,4 @@ Assuming that the client is on Linux and currently on their home directory:
 3. Place the weather.service file into "/etc/systemd/system" directory
 4. Run "sudo systemctl enable weather" while in "home/vagrant" directory
 
-Note: Weather should be displayed every hour when journalctl is ran
+Note: Weather should be displayed every hour when journalctl command is executed
